@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "callback": "node proyecto/src/callback/index.js",
     "callback:challenge": "node proyecto/src/callback/challenge.js",
-    "promise": "node proyecto/src/promise/index.js"
+    "promise": "node proyecto/src/promise/index.js",
+    "promise:challenge": "node proyecto/src/promise/challenge.js",
+    "async": "node proyecto/src/async/index.js",
+    "async:challenge": "node proyecto/src/async/challenge.js"
   },
   "repository": {
     "type": "git",
